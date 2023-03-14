@@ -5,9 +5,9 @@
 <title style="color: white;">18CSE301J-INFORMATION VISUALIZATION</title> 
  <style>
     body {
-      background-image: url("https://wallpaperaccess.com/full/1567679.jpg");
-      background-repeat: no-repeat;
-      background-size: cover;
+      background-image: url("[https://wallpaperaccess.com/full/1567679.jpg](https://i.pinimg.com/originals/c1/d0/4e/c1d04ebfc9ef291916ffe35cf44c796e.jpg)");
+      background-repeat: repeat;
+      background-size: overlay;
     }
     h1 {
       text-align: center;
