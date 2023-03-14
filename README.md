@@ -1,34 +1,27 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
-    <meta charset="UTF-8">
-    <style>
-      body {
-        background: url("https://raw.githubusercontent.com/german1608/background-patterns/master/30.png");
-      }
-    </style>
-  </head>
-
-
- 
-<title>18CSE301J-INFORMATION VISUALIZATION</title>
-
-<head>
-    <style>
-h1 {
-  text-align: center;
-}
-h2 {
-  text-align: center;
-}
-</style>
+  <title>18CSE301J-INFORMATION VISUALIZATION</title>
+  <style>
+    body {
+      background-image: url("https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/codepen-mEakp.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    h1 {
+      text-align: center;
+    }
+    h2 {
+      text-align: center;
+    }
+  </style>
 </head>
-<a href="https://sudhersankv.github.io/18CSE301J_RA2011030010094/">18CSE301J_RA2011030010094</a>
-<h1><strong>IV Project Sample Visualizations using Python, D3, Tableu, Giphy</strong></h1>
-<p><em>Here I've visualized my chosen dataset using different tools and platforms and uploaded some samples below.</em></p>
 <body>
+  <a href="https://sudhersankv.github.io/18CSE301J_RA2011030010094/">18CSE301J_RA2011030010094</a>
+  <h1><strong>IV Project Sample Visualizations using Python, D3, Tableu, Giphy</strong></h1>
+  <p><em>Here I've visualized my chosen dataset using different tools and platforms and uploaded some samples below.</em></p>
+</body>
  
     <h2>Sudhersan K V  (RA2011030010094)</h2>
     <h2>TABLEAU PROJECT</h2>
