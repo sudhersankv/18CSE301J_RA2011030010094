@@ -7,7 +7,7 @@
     body {
       background-image: url("[https://wallpaperaccess.com/full/1567679.jpg](https://i.pinimg.com/originals/c1/d0/4e/c1d04ebfc9ef291916ffe35cf44c796e.jpg)");
       background-repeat: repeat;
-      background-size: full;
+      background-size: cover;
     }
     h1 {
       text-align: center;
