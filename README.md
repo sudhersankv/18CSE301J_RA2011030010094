@@ -20,7 +20,7 @@
 <body>
   <a href="https://sudhersankv.github.io/18CSE301J_RA2011030010094/">18CSE301J_RA2011030010094</a>
   <style>
-  h1, p {
+  h1, p, h3, h2 {
     color: white;
   }
 </style>
