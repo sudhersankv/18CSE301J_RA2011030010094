@@ -84,7 +84,7 @@ plt.title('Capacity (in MW) by Location in India')
 #Show the plot
 plt.show()
 </code></pre>
-This adds a new heading for the second visualization and the code for creating a scatter plot of the capacity vs. location in India. The code block is again enclosed within pre and code tags to preserve the formatting and add syntax highlighting.
+<h2>This adds a new heading for the second visualization and the code for creating a scatter plot of the capacity vs. location in India. The code block is again enclosed within pre and code tags to preserve the formatting and add syntax highlighting.</h2>
 <figure>
   <img src="IV/scatterplot Python Viz 2.png" alt="Visualization 1 using Python (Cap in MW wrt Primary Fuel)">
   <figcaption>Visualization 2 using Python (Cap in MW wrt Location in India)</figcaption>
