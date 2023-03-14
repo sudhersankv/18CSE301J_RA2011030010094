@@ -1,12 +1,17 @@
 
 <!DOCTYPE html>
-<html><!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8">
     <style>
       body {
-        background-image: linear-gradient(to bottom right, #FF6B6B, #C000FF, #4B0082);
+        background: url("https://raw.githubusercontent.com/german1608/background-patterns/master/30.png");
       }
     </style>
+  </head>
+
+
  
 <title>18CSE301J-INFORMATION VISUALIZATION</title>
 
