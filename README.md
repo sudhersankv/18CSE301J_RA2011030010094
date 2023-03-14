@@ -5,7 +5,7 @@
   <title>18CSE301J-INFORMATION VISUALIZATION</title>
   <style>
     body {
-      background-image: url("https://4kwallpapers.com/images/wallpapers/glass-light-abstract-background-blue-background-3d-3840x2160-8736.jpg");
+      background-image: url("https://wallpaperaccess.com/full/1567679.jpg");
       background-repeat: no-repeat;
       background-size: cover;
     }
