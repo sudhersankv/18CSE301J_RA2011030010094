@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>18CSE301J-INFORMATION VISUALIZATION</title>
-  <style>
+<title style="color: white;">18CSE301J-INFORMATION VISUALIZATION</title> 
+ <style>
     body {
       background-image: url("https://wallpaperaccess.com/full/1567679.jpg");
       background-repeat: no-repeat;
@@ -19,6 +19,11 @@
 </head>
 <body>
   <a href="https://sudhersankv.github.io/18CSE301J_RA2011030010094/">18CSE301J_RA2011030010094</a>
+  <style>
+  h1, p {
+    color: white;
+  }
+</style>
   <h1><strong>IV Project Sample Visualizations using Python, D3, Tableu, Giphy</strong></h1>
   <p><em>Here I've visualized my chosen dataset using different tools and platforms and uploaded some samples below.</em></p>
 </body>
