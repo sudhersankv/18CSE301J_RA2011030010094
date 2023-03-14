@@ -1,6 +1,13 @@
 
 <!DOCTYPE html>
-<html>
+<html><!DOCTYPE html>
+
+    <style>
+      body {
+        background-image: linear-gradient(to bottom right, #FF6B6B, #C000FF, #4B0082);
+      }
+    </style>
+ 
 <title>18CSE301J-INFORMATION VISUALIZATION</title>
 
 <head>
