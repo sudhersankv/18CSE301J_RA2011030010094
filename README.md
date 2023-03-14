@@ -5,7 +5,7 @@
   <title>18CSE301J-INFORMATION VISUALIZATION</title>
   <style>
     body {
-      background-image: url("https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/codepen-mEakp.png");
+      background-image: url("https://4kwallpapers.com/images/wallpapers/glass-light-abstract-background-blue-background-3d-3840x2160-8736.jpg");
       background-repeat: no-repeat;
       background-size: cover;
     }
